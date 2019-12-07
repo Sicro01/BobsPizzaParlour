@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <RootNamespace>BobsPizzaParlour.Persistence</RootNamespace>
+    <AssemblyName>BobsPizzaParlour.Persistence</AssemblyName>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+</Project>

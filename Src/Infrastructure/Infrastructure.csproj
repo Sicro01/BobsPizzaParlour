@@ -1,0 +1,10 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <RootNamespace>BobsPizzaParlour.Infrastructure</RootNamespace>
+    <AssemblyName>BobsPizzaParlour.Infrastructure</AssemblyName>
+
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+</Project>
