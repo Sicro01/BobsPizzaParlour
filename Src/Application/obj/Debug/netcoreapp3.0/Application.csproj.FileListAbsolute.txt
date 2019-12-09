@@ -1,0 +1,11 @@
+C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\BobsPizzaParlour\Src\Application\bin\Debug\netcoreapp3.0\BobsPizzaParlour.Application.deps.json
+C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\BobsPizzaParlour\Src\Application\bin\Debug\netcoreapp3.0\BobsPizzaParlour.Application.dll
+C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\BobsPizzaParlour\Src\Application\bin\Debug\netcoreapp3.0\BobsPizzaParlour.Application.pdb
+C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\BobsPizzaParlour\Src\Application\bin\Debug\netcoreapp3.0\BobsizzaParlour.Domain.dll
+C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\BobsPizzaParlour\Src\Application\bin\Debug\netcoreapp3.0\BobsizzaParlour.Domain.pdb
+C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\BobsPizzaParlour\Src\Application\obj\Debug\netcoreapp3.0\Application.csprojAssemblyReference.cache
+C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\BobsPizzaParlour\Src\Application\obj\Debug\netcoreapp3.0\Application.AssemblyInfoInputs.cache
+C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\BobsPizzaParlour\Src\Application\obj\Debug\netcoreapp3.0\Application.AssemblyInfo.cs
+C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\BobsPizzaParlour\Src\Application\obj\Debug\netcoreapp3.0\Application.csproj.CopyComplete
+C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\BobsPizzaParlour\Src\Application\obj\Debug\netcoreapp3.0\BobsPizzaParlour.Application.dll
+C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\BobsPizzaParlour\Src\Application\obj\Debug\netcoreapp3.0\BobsPizzaParlour.Application.pdb

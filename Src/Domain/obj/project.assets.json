@@ -14,7 +14,7 @@
     "version": "1.0.0",
     "restore": {
       "projectUniqueName": "C:\\Users\\770000411\\OneDrive - Genpact\\02 - Personal\\CProjects\\BobsPizzaParlour\\Src\\Domain\\Domain.csproj",
-      "projectName": "Domain",
+      "projectName": "BobsizzaParlour.Domain",
       "projectPath": "C:\\Users\\770000411\\OneDrive - Genpact\\02 - Personal\\CProjects\\BobsPizzaParlour\\Src\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\770000411\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\770000411\\OneDrive - Genpact\\02 - Personal\\CProjects\\BobsPizzaParlour\\Src\\Domain\\obj\\",

@@ -1,6 +1,8 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
+    <RootNamespace>BobsPizzaParlour.Domain</RootNamespace>
+    <AssemblyName>BobsizzaParlour.Domain</AssemblyName>
     <TargetFramework>netcoreapp3.0</TargetFramework>
   </PropertyGroup>
 

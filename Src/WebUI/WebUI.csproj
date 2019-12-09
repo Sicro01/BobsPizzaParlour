@@ -3,15 +3,12 @@
   <PropertyGroup>
     <RootNamespace>BobsPizzaParlour.WebUI</RootNamespace>
     <AssemblyName>BobsPizzaParlour.WebUI</AssemblyName>
-
     <TargetFramework>netcoreapp3.0</TargetFramework>
-    <ApplicationIcon />
-    <OutputType>Exe</OutputType>
-    <StartupObject />
   </PropertyGroup>
 
-
   <ItemGroup>
+    <ProjectReference Include="..\Infrastructure\Infrastructure.csproj" />
+    <ProjectReference Include="..\Persistence\Persistence.csproj" />
   </ItemGroup>
 
 </Project>

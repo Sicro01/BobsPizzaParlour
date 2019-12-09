@@ -1,7 +1,17 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Src"
+    "\\Src",
+    "\\Src\\Application",
+    "\\Src\\Application\\bin",
+    "\\Src\\Application\\bin\\Debug",
+    "\\Src\\Infrastructure",
+    "\\Src\\Infrastructure\\obj\\Debug",
+    "\\Src\\WebUI",
+    "\\Src\\WebUI\\bin",
+    "\\Src\\WebUI\\bin\\Debug",
+    "\\Src\\WebUI\\bin\\Release"
   ],
+  "SelectedNode": "\\Src\\Application",
   "PreviewInSolutionExplorer": false
 }

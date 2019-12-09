@@ -1,0 +1,8 @@
+C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\BobsPizzaParlour\Src\Infrastructure\bin\Debug\netcoreapp3.0\BobsPizzaParlour.Infrastructure.deps.json
+C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\BobsPizzaParlour\Src\Infrastructure\bin\Debug\netcoreapp3.0\BobsPizzaParlour.Infrastructure.dll
+C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\BobsPizzaParlour\Src\Infrastructure\bin\Debug\netcoreapp3.0\BobsPizzaParlour.Infrastructure.pdb
+C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\BobsPizzaParlour\Src\Infrastructure\obj\Debug\netcoreapp3.0\Infrastructure.csprojAssemblyReference.cache
+C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\BobsPizzaParlour\Src\Infrastructure\obj\Debug\netcoreapp3.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\BobsPizzaParlour\Src\Infrastructure\obj\Debug\netcoreapp3.0\Infrastructure.AssemblyInfo.cs
+C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\BobsPizzaParlour\Src\Infrastructure\obj\Debug\netcoreapp3.0\BobsPizzaParlour.Infrastructure.dll
+C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\BobsPizzaParlour\Src\Infrastructure\obj\Debug\netcoreapp3.0\BobsPizzaParlour.Infrastructure.pdb

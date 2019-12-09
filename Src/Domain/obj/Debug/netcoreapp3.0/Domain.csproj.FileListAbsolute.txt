@@ -1,0 +1,7 @@
+C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\BobsPizzaParlour\Src\Domain\bin\Debug\netcoreapp3.0\BobsizzaParlour.Domain.deps.json
+C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\BobsPizzaParlour\Src\Domain\bin\Debug\netcoreapp3.0\BobsizzaParlour.Domain.dll
+C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\BobsPizzaParlour\Src\Domain\bin\Debug\netcoreapp3.0\BobsizzaParlour.Domain.pdb
+C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\BobsPizzaParlour\Src\Domain\obj\Debug\netcoreapp3.0\Domain.AssemblyInfoInputs.cache
+C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\BobsPizzaParlour\Src\Domain\obj\Debug\netcoreapp3.0\Domain.AssemblyInfo.cs
+C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\BobsPizzaParlour\Src\Domain\obj\Debug\netcoreapp3.0\BobsizzaParlour.Domain.dll
+C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\BobsPizzaParlour\Src\Domain\obj\Debug\netcoreapp3.0\BobsizzaParlour.Domain.pdb

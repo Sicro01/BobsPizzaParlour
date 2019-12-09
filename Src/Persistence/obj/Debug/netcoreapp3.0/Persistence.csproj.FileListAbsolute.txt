@@ -1,0 +1,8 @@
+C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\BobsPizzaParlour\Src\Persistence\bin\Debug\netcoreapp3.0\BobsPizzaParlour.Persistence.deps.json
+C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\BobsPizzaParlour\Src\Persistence\bin\Debug\netcoreapp3.0\BobsPizzaParlour.Persistence.dll
+C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\BobsPizzaParlour\Src\Persistence\bin\Debug\netcoreapp3.0\BobsPizzaParlour.Persistence.pdb
+C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\BobsPizzaParlour\Src\Persistence\obj\Debug\netcoreapp3.0\Persistence.csprojAssemblyReference.cache
+C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\BobsPizzaParlour\Src\Persistence\obj\Debug\netcoreapp3.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\BobsPizzaParlour\Src\Persistence\obj\Debug\netcoreapp3.0\Persistence.AssemblyInfo.cs
+C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\BobsPizzaParlour\Src\Persistence\obj\Debug\netcoreapp3.0\BobsPizzaParlour.Persistence.dll
+C:\Users\770000411\OneDrive - Genpact\02 - Personal\CProjects\BobsPizzaParlour\Src\Persistence\obj\Debug\netcoreapp3.0\BobsPizzaParlour.Persistence.pdb
